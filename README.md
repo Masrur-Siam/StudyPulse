@@ -7,7 +7,7 @@ Upload your class routine as a PDF or image, detect the routine table locally, r
 ## 🚀 Live App
 
 👉 **Use Class Routine:**  
-[https://YOUR-APP-LINK-HERE](https://drive.google.com/file/d/1yf26KYQx5cChv2FHpw9Mrb0YNqStQBED/view?usp=sharing)
+[Download app from here](https://drive.google.com/file/d/1yf26KYQx5cChv2FHpw9Mrb0YNqStQBED/view?usp=sharing)
 
 > Replace the link above with your deployed app URL.
 
